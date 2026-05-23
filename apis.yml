@@ -1,0 +1,63 @@
+aid: jack-in-the-box
+name: Jack in the Box
+url: https://raw.githubusercontent.com/api-evangelist/jack-in-the-box/refs/heads/main/apis.yml
+modified: '2026-05-23'
+description: >-
+  Jack in the Box Inc. (NASDAQ: JACK), founded in 1951 and headquartered in
+  San Diego, California, is a quick-service restaurant company operating and
+  franchising approximately 2,200 Jack in the Box hamburger restaurants across
+  21 U.S. states. In December 2021 the company acquired Del Taco for $575M;
+  in August 2025 it announced a strategic review of Del Taco and on October
+  2025 agreed to divest Del Taco (~600 locations) to Yadav Enterprises for
+  $115M, with the transaction closing December 22, 2025. Digital channels
+  include the Jack in the Box mobile app, Jack Pack loyalty program, online
+  ordering, and integrations with third-party delivery platforms (DoorDash,
+  Grubhub, Uber Eats). The company does not publish a public developer API;
+  all digital ordering, loyalty, and franchise systems are operated via
+  internal platforms and partner integrations.
+type: Index
+image: https://kinlane-productions2.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+specificationVersion: '0.20'
+created: '2026-05-23'
+tags:
+  - Quick-Service Restaurant
+  - Fast Food
+  - Restaurants
+  - Digital Ordering
+  - Loyalty
+  - Franchise
+  - Mobile App
+  - Delivery
+common:
+  - type: Website
+    url: https://www.jackinthebox.com
+  - type: InvestorRelations
+    url: https://investors.jackinthebox.com
+  - type: MobileApp
+    url: https://www.jackinthebox.com/jack-app
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/jack-in-the-box
+  - type: Twitter
+    url: https://twitter.com/JackBox
+  - type: Facebook
+    url: https://www.facebook.com/jackinthebox
+  - type: Instagram
+    url: https://www.instagram.com/jackinthebox
+  - type: YouTube
+    url: https://www.youtube.com/jackinthebox
+  - type: Franchising
+    url: https://www.jackinthebox.com/franchising
+  - type: Careers
+    url: https://careers.jackinthebox.com
+  - type: PressReleases
+    url: https://investors.jackinthebox.com/news-and-events/press-releases
+  - type: SECFilings
+    url: https://investors.jackinthebox.com/financials/sec-filings
+  - type: JSONLDContext
+    url: json-ld/jack-in-the-box-context.jsonld
+  - type: Vocabulary
+    url: vocabulary/jack-in-the-box-vocabulary.yml
+apis: []
+maintainers:
+  - FN: API Evangelist
+    email: info@apievangelist.com

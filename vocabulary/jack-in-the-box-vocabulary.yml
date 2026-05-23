@@ -1,0 +1,81 @@
+vocabulary:
+  provider: Jack in the Box
+  description: >-
+    Vocabulary for Jack in the Box Inc. (NASDAQ: JACK), a U.S. quick-service
+    restaurant company operating approximately 2,200 Jack in the Box hamburger
+    restaurants across 21 states. Covers QSR operations, digital ordering, the
+    Jack Pack loyalty program, third-party delivery, franchising, and the
+    company's recent divestiture of Del Taco to Yadav Enterprises (closed
+    December 2025).
+  tags:
+    - Quick-Service Restaurant
+    - Fast Food
+    - Digital Ordering
+    - Loyalty
+    - Franchise
+    - Mobile App
+    - Delivery
+
+  domains:
+    - name: Corporate
+      terms:
+        - term: Jack in the Box Inc.
+          definition: NASDAQ-listed (ticker JACK) parent company founded in 1951 by Robert O. Peterson, headquartered in San Diego, California.
+        - term: Del Taco Divestiture
+          definition: October 2025 agreement to sell the Del Taco brand (~600 locations) to Yadav Enterprises for $115M; transaction closed December 22, 2025, refocusing the company on the Jack in the Box brand.
+        - term: JACK on Track
+          definition: Company strategic plan emphasizing core brand operations following the Del Taco divestiture.
+        - term: Franchise-Led Model
+          definition: Operating model in which the majority of Jack in the Box restaurants are owned and operated by franchisees rather than the company directly.
+
+    - name: Restaurant Operations
+      terms:
+        - term: QSR (Quick-Service Restaurant)
+          definition: Fast-food restaurant format where customers order and pay before eating and food is served quickly.
+        - term: Drive-Thru
+          definition: Service window allowing customers to order and receive food without leaving their vehicle; primary channel for Jack in the Box locations.
+        - term: Late-Night Daypart
+          definition: Operating window after traditional dinner hours; many Jack in the Box locations are open 24 hours and the late-night daypart is a brand differentiator.
+        - term: POS (Point of Sale)
+          definition: Restaurant technology system for processing customer orders and payments.
+
+    - name: Digital and Technology
+      terms:
+        - term: Jack App
+          definition: Official Jack in the Box mobile application for iOS and Android supporting mobile ordering, deals, store locator, and the Jack Pack loyalty program.
+        - term: Jack Pack
+          definition: Jack in the Box loyalty program providing points, rewards, birthday offers, and exclusive deals to enrolled members.
+        - term: Mobile Order
+          definition: Customer food order placed through the Jack app for in-store pickup, drive-thru, or curbside.
+        - term: Curbside Pickup
+          definition: Order fulfillment option in which staff bring a mobile order out to the customer's vehicle in the parking lot.
+        - term: Third-Party Delivery
+          definition: Delivery services integrated with Jack in the Box including DoorDash, Grubhub, and Uber Eats.
+
+    - name: Menu and Food
+      terms:
+        - term: Jumbo Jack
+          definition: Jack in the Box's signature large hamburger product, introduced in 1971.
+        - term: Sourdough Jack
+          definition: Jack in the Box burger served on grilled sourdough bread.
+        - term: Tacos
+          definition: Jack in the Box's iconic two-pack of crunchy tacos; one of the brand's most-ordered items.
+        - term: Munchie Meal
+          definition: Late-night value combo bundle marketed specifically to the late-night daypart.
+        - term: Combo Meal
+          definition: Menu bundle combining an entree, side, and beverage at a set price.
+        - term: LTO (Limited Time Offer)
+          definition: Promotional menu item available for a limited period.
+
+    - name: Franchise Operations
+      terms:
+        - term: Franchisee
+          definition: Independent owner-operator who licenses the Jack in the Box brand and operates one or more locations.
+        - term: Franchise Agreement
+          definition: Legal contract between Jack in the Box and a franchisee governing operation standards, royalties, and territory rights.
+        - term: Royalty Fee
+          definition: Percentage of sales paid by franchisees to Jack in the Box Inc.
+        - term: Company-Operated Restaurant
+          definition: Jack in the Box location owned and operated directly by the company rather than a franchisee.
+        - term: Franchise Disclosure Document (FDD)
+          definition: Regulatory document provided to prospective franchisees describing the franchise system, fees, and obligations.

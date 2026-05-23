@@ -1,0 +1,22 @@
+{
+  "description": "Example Jack in the Box restaurant menu item data",
+  "menuItem": {
+    "itemId": "JIB-ITEM-001",
+    "name": "Jumbo Jack",
+    "category": "Burgers",
+    "description": "Jack in the Box's signature large hamburger: 100% beef patty topped with lettuce, tomato, pickles, onion, ketchup, and real mayonnaise on a sesame-seed bun.",
+    "price": 4.99,
+    "currency": "USD",
+    "calories": 590,
+    "protein": 24,
+    "fat": 32,
+    "carbohydrates": 51,
+    "sodium": 880,
+    "isAvailable": true,
+    "isCustomizable": true,
+    "allergens": ["wheat", "egg", "soy", "sesame"],
+    "imageCdnUrl": "https://www.jackinthebox.com/images/menu/jumbo-jack.jpg",
+    "availableChannels": ["in-store", "mobile-app", "drive-thru", "delivery"],
+    "dayparts": ["lunch", "dinner", "late-night"]
+  }
+}
