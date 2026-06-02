@@ -1,7 +1,7 @@
 aid: jack-in-the-box
 name: Jack in the Box
 url: https://raw.githubusercontent.com/api-evangelist/jack-in-the-box/refs/heads/main/apis.yml
-modified: '2026-05-23'
+modified: '2026-06-02'
 description: >-
   Jack in the Box Inc. (NASDAQ: JACK), founded in 1951 and headquartered in
   San Diego, California, is a quick-service restaurant company operating and
@@ -49,6 +49,9 @@ common:
     url: https://www.jackinthebox.com/franchising
   - type: Careers
     url: https://careers.jackinthebox.com
+  - type: GitHubOrganization
+    url: https://github.com/Jackinthebox-IT
+    title: Jack in the Box IT (no public repositories)
   - type: PressReleases
     url: https://investors.jackinthebox.com/news-and-events/press-releases
   - type: SECFilings
@@ -57,7 +60,10 @@ common:
     url: json-ld/jack-in-the-box-context.jsonld
   - type: Vocabulary
     url: vocabulary/jack-in-the-box-vocabulary.yml
+  - type: Examples
+    url: examples/jack-in-the-box-restaurant-menu-item-example.json
+    title: Menu Item Example
 apis: []
 maintainers:
-  - FN: API Evangelist
-    email: info@apievangelist.com
+  - FN: Kin Lane
+    email: kin@apievangelist.com
