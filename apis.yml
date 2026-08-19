@@ -28,7 +28,7 @@ description: >-
   internal platforms and partner integrations.
 type: Index
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/jack-in-the-box.png
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-05-23'
 tags:
   - Quick-Service Restaurant
