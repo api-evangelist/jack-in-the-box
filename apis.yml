@@ -31,6 +31,15 @@ image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/jack-in-th
 specificationVersion: '0.23'
 created: '2026-05-23'
 tags:
+  - Quick Service Restaurant
+  - Fast Food
+  - Restaurant
+  - Digital Ordering
+  - Loyalty
+  - Franchise
+  - Mobile App
+  - Delivery
+tags_raw:
   - Quick-Service Restaurant
   - Fast Food
   - Restaurants
